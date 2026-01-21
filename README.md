@@ -5,9 +5,9 @@ The goal of this project is to demonstrate best practices in data engineering an
 
 #### Tech Stack
 
-**Database: PostgreSQL 18
-**Database Administration: pgAdmin 4 (Desktop & Browser UI)
-**Query Language: SQL
-**Data Modeling: Layered architecture (Bronze, Silver, Gold schemas)
-**Development Environment: macOS
-**Version Control: Git & GitHub
+- **Database**: PostgreSQL 18
+- **Database Administration**: pgAdmin 4 (Desktop & Browser UI)
+- **Query Language**: SQL
+- **Data Modeling**: Layered architecture (Bronze, Silver, Gold schemas)
+- **Development Environment**: macOS
+- **Version Control**: Git & GitHub
